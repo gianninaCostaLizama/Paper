@@ -1,0 +1,907 @@
+topic_id,topic_name,oss_id,language_id,name
+6,Games,1,3,C++
+6,Games,5,3,C++
+8,"Science and Engineering",7,3,C++
+8,"Science and Engineering",7,4,C
+8,"Science and Engineering",7,14,"Objective C"
+7,Graphics,9,5,Python
+6,Games,13,6,PHP
+6,Games,13,7,JavaScript
+4,Development,29,3,C++
+10,"System Administration",36,3,C++
+4,Development,37,1,Java
+5,"Home and Education",41,1,Java
+10,"System Administration",45,4,C
+10,"System Administration",45,5,Python
+4,Development,48,3,C++
+6,Games,49,1,Java
+4,Development,50,14,"Objective C"
+8,"Science and Engineering",52,4,C
+8,"Science and Engineering",52,8,Perl
+4,Development,53,1,Java
+9,"Security and Utilities",56,17,Delphi/Kylix
+4,Development,57,1,Java
+4,Development,58,4,C
+7,Graphics,67,4,C
+4,Development,68,1,Java
+4,Development,73,3,C++
+4,Development,74,5,Python
+2,"Business and Enterprise",77,4,C
+7,Graphics,81,3,C++
+7,Graphics,81,5,Python
+9,"Security and Utilities",84,1,Java
+6,Games,85,3,C++
+4,Development,89,31,"Object Pascal"
+4,Development,89,32,"Free Pascal"
+4,Development,94,1,Java
+4,Development,95,1,Java
+4,Development,95,3,C++
+2,"Business and Enterprise",96,6,PHP
+2,"Business and Enterprise",96,7,JavaScript
+10,"System Administration",97,4,C
+3,Communications,98,2,C#
+10,"System Administration",99,4,C
+6,Games,101,2,C#
+4,Development,102,4,C
+6,Games,104,2,C#
+10,"System Administration",107,4,C
+6,Games,108,1,Java
+6,Games,108,3,C++
+10,"System Administration",109,3,C++
+10,"System Administration",109,4,C
+10,"System Administration",109,14,"Objective C"
+7,Graphics,110,4,C
+10,"System Administration",111,3,C++
+10,"System Administration",113,4,C
+8,"Science and Engineering",115,1,Java
+6,Games,116,1,Java
+8,"Science and Engineering",117,3,C++
+8,"Science and Engineering",117,4,C
+6,Games,122,3,C++
+6,Games,122,5,Python
+2,"Business and Enterprise",123,2,C#
+2,"Business and Enterprise",123,3,C++
+2,"Business and Enterprise",123,5,Python
+2,"Business and Enterprise",123,11,Ruby
+4,Development,125,1,Java
+4,Development,125,15,"XLS (XSLT/XPath/XSL-FO)"
+3,Communications,128,1,Java
+3,Communications,128,7,JavaScript
+3,Communications,128,15,"XLS (XSLT/XPath/XSL-FO)"
+4,Development,129,5,Python
+2,"Business and Enterprise",134,6,PHP
+4,Development,135,1,Java
+4,Development,136,1,Java
+4,Development,137,1,Java
+4,Development,138,6,PHP
+4,Development,138,8,Perl
+4,Development,138,18,"Visual Basic"
+4,Development,139,1,Java
+4,Development,140,3,C++
+4,Development,140,5,Python
+4,Development,142,3,C++
+4,Development,142,4,C
+4,Development,143,3,C++
+4,Development,143,4,C
+10,"System Administration",144,5,Python
+9,"Security and Utilities",149,2,C#
+4,Development,150,1,Java
+4,Development,150,6,PHP
+8,"Science and Engineering",151,3,C++
+10,"System Administration",156,4,C
+4,Development,157,21,PL/SQL
+10,"System Administration",159,3,C++
+9,"Security and Utilities",160,3,C++
+10,"System Administration",161,1,Java
+4,Development,162,3,C++
+6,Games,163,4,C
+3,Communications,164,3,C++
+3,Communications,164,4,C
+3,Communications,164,23,Tcl
+6,Games,165,3,C++
+4,Development,166,3,C++
+2,"Business and Enterprise",167,1,Java
+8,"Science and Engineering",168,12,MATLAB
+8,"Science and Engineering",169,5,Python
+8,"Science and Engineering",171,5,Python
+8,"Science and Engineering",172,1,Java
+4,Development,173,3,C++
+10,"System Administration",174,4,C
+4,Development,175,1,Java
+8,"Science and Engineering",180,5,Python
+10,"System Administration",183,3,C++
+10,"System Administration",183,14,"Objective C"
+10,"System Administration",188,2,C#
+4,Development,189,1,Java
+4,Development,189,2,C#
+4,Development,190,6,PHP
+8,"Science and Engineering",191,1,Java
+8,"Science and Engineering",191,3,C++
+8,"Science and Engineering",191,5,Python
+6,Games,193,3,C++
+6,Games,193,4,C
+6,Games,193,10,Lua
+8,"Science and Engineering",195,12,MATLAB
+6,Games,198,4,C
+8,"Science and Engineering",199,5,Python
+4,Development,201,3,C++
+10,"System Administration",202,1,Java
+10,"System Administration",202,7,JavaScript
+10,"System Administration",202,13,JSP
+10,"System Administration",203,4,C
+10,"System Administration",203,8,Perl
+8,"Science and Engineering",204,3,C++
+4,Development,205,1,Java
+4,Development,209,3,C++
+4,Development,210,6,PHP
+3,Communications,211,4,C
+6,Games,214,3,C++
+6,Games,214,4,C
+10,"System Administration",216,4,C
+8,"Science and Engineering",217,3,C++
+8,"Science and Engineering",217,5,Python
+4,Development,219,3,C++
+9,"Security and Utilities",220,1,Java
+9,"Security and Utilities",220,7,JavaScript
+9,"Security and Utilities",220,13,JSP
+9,"Security and Utilities",220,21,PL/SQL
+10,"System Administration",221,1,Java
+4,Development,222,6,PHP
+4,Development,222,7,JavaScript
+4,Development,223,1,Java
+10,"System Administration",226,4,C
+4,Development,228,6,PHP
+4,Development,228,7,JavaScript
+10,"System Administration",229,2,C#
+4,Development,230,1,Java
+9,"Security and Utilities",231,2,C#
+4,Development,232,1,Java
+4,Development,233,2,C#
+10,"System Administration",234,4,C
+10,"System Administration",235,4,C
+1,"Audio and Video",236,6,PHP
+1,"Audio and Video",236,7,JavaScript
+1,"Audio and Video",236,20,ActionScript
+4,Development,237,1,Java
+4,Development,237,3,C++
+4,Development,237,4,C
+4,Development,237,5,Python
+6,Games,239,1,Java
+4,Development,240,7,JavaScript
+4,Development,240,11,Ruby
+6,Games,242,2,C#
+6,Games,242,4,C
+4,Development,244,7,JavaScript
+4,Development,245,3,C++
+4,Development,245,4,C
+4,Development,246,6,PHP
+1,"Audio and Video",248,16,"Visual Basic .NET"
+4,Development,252,6,PHP
+4,Development,252,7,JavaScript
+8,"Science and Engineering",253,5,Python
+4,Development,254,1,Java
+4,Development,255,1,Java
+8,"Science and Engineering",256,3,C++
+8,"Science and Engineering",256,4,C
+4,Development,257,3,C++
+6,Games,259,4,C
+6,Games,264,2,C#
+4,Development,265,6,PHP
+4,Development,266,4,C
+8,"Science and Engineering",267,5,Python
+4,Development,268,5,Python
+4,Development,271,6,PHP
+10,"System Administration",272,3,C++
+10,"System Administration",272,4,C
+10,"System Administration",272,5,Python
+4,Development,273,5,Python
+4,Development,276,1,Java
+6,Games,278,3,C++
+4,Development,279,6,PHP
+4,Development,281,17,Delphi/Kylix
+4,Development,281,48,Pascal
+4,Development,282,3,C++
+4,Development,282,4,C
+8,"Science and Engineering",283,1,Java
+6,Games,284,1,Java
+4,Development,285,3,C++
+4,Development,286,1,Java
+4,Development,288,6,PHP
+8,"Science and Engineering",289,2,C#
+4,Development,290,5,Python
+4,Development,290,9,"Unix Shell"
+8,"Science and Engineering",291,1,Java
+2,"Business and Enterprise",294,2,C#
+2,"Business and Enterprise",294,49,Groovy
+4,Development,296,1,Java
+8,"Science and Engineering",297,4,C
+8,"Science and Engineering",297,5,Python
+4,Development,299,1,Java
+4,Development,299,50,Scala
+6,Games,300,2,C#
+4,Development,302,3,C++
+4,Development,302,5,Python
+4,Development,302,6,PHP
+4,Development,303,6,PHP
+4,Development,303,21,PL/SQL
+10,"System Administration",308,4,C
+10,"System Administration",308,8,Perl
+10,"System Administration",308,9,"Unix Shell"
+4,Development,309,1,Java
+4,Development,310,4,C
+6,Games,311,3,C++
+2,"Business and Enterprise",312,1,Java
+4,Development,313,1,Java
+4,Development,313,47,AWK
+4,Development,316,2,C#
+6,Games,317,1,Java
+10,"System Administration",318,2,C#
+4,Development,319,4,C
+4,Development,322,2,C#
+6,Games,323,3,C++
+4,Development,325,6,PHP
+4,Development,325,7,JavaScript
+2,"Business and Enterprise",326,1,Java
+2,"Business and Enterprise",326,7,JavaScript
+2,"Business and Enterprise",326,13,JSP
+2,"Business and Enterprise",327,2,C#
+2,"Business and Enterprise",327,6,PHP
+4,Development,330,4,C
+4,Development,331,3,C++
+4,Development,331,4,C
+4,Development,336,3,C++
+8,"Science and Engineering",337,1,Java
+1,"Audio and Video",338,4,C
+6,Games,340,3,C++
+10,"System Administration",341,5,Python
+4,Development,344,3,C++
+4,Development,344,4,C
+8,"Science and Engineering",345,3,C++
+8,"Science and Engineering",345,4,C
+8,"Science and Engineering",345,10,Lua
+4,Development,346,1,Java
+4,Development,347,3,C++
+10,"System Administration",348,4,C
+9,"Security and Utilities",350,3,C++
+7,Graphics,351,1,Java
+10,"System Administration",352,1,Java
+10,"System Administration",354,6,PHP
+10,"System Administration",355,3,C++
+10,"System Administration",355,8,Perl
+10,"System Administration",355,9,"Unix Shell"
+9,"Security and Utilities",359,4,C
+6,Games,360,1,Java
+4,Development,361,4,C
+2,"Business and Enterprise",362,1,Java
+4,Development,364,6,PHP
+10,"System Administration",365,16,"Visual Basic .NET"
+4,Development,366,8,Perl
+4,Development,366,9,"Unix Shell"
+9,"Security and Utilities",368,1,Java
+8,"Science and Engineering",371,3,C++
+8,"Science and Engineering",371,4,C
+4,Development,372,1,Java
+2,"Business and Enterprise",373,3,C++
+2,"Business and Enterprise",373,4,C
+8,"Science and Engineering",374,3,C++
+8,"Science and Engineering",374,7,JavaScript
+4,Development,378,23,Tcl
+6,Games,380,6,PHP
+2,"Business and Enterprise",386,5,Python
+8,"Science and Engineering",387,5,Python
+8,"Science and Engineering",387,9,"Unix Shell"
+10,"System Administration",388,3,C++
+4,Development,389,2,C#
+2,"Business and Enterprise",396,5,Python
+2,"Business and Enterprise",396,55,Zope
+5,"Home and Education",397,6,PHP
+4,Development,398,3,C++
+4,Development,398,5,Python
+4,Development,399,5,Python
+8,"Science and Engineering",400,4,C
+4,Development,401,4,C
+2,"Business and Enterprise",402,3,C++
+2,"Business and Enterprise",402,4,C
+8,"Science and Engineering",404,8,Perl
+4,Development,406,1,Java
+8,"Science and Engineering",407,5,Python
+1,"Audio and Video",408,4,C
+2,"Business and Enterprise",409,1,Java
+9,"Security and Utilities",410,1,Java
+3,Communications,411,6,PHP
+8,"Science and Engineering",413,1,Java
+4,Development,415,1,Java
+4,Development,415,56,ASP
+8,"Science and Engineering",416,3,C++
+4,Development,417,3,C++
+4,Development,418,1,Java
+6,Games,424,4,C
+6,Games,424,57,"GLSL (OpenGL Shading Language)"
+6,Games,425,1,Java
+2,"Business and Enterprise",426,1,Java
+4,Development,430,5,Python
+10,"System Administration",431,4,C
+10,"System Administration",431,8,Perl
+4,Development,437,1,Java
+4,Development,439,3,C++
+8,"Science and Engineering",442,1,Java
+6,Games,445,4,C
+4,Development,446,2,C#
+8,"Science and Engineering",449,12,MATLAB
+4,Development,451,6,PHP
+8,"Science and Engineering",454,2,C#
+8,"Science and Engineering",454,5,Python
+5,"Home and Education",459,4,C
+5,"Home and Education",459,8,Perl
+4,Development,460,6,PHP
+4,Development,460,7,JavaScript
+4,Development,461,7,JavaScript
+4,Development,461,11,Ruby
+6,Games,462,3,C++
+10,"System Administration",463,2,C#
+8,"Science and Engineering",464,3,C++
+8,"Science and Engineering",464,4,C
+3,Communications,465,2,C#
+3,Communications,465,16,"Visual Basic .NET"
+3,Communications,466,6,PHP
+9,"Security and Utilities",468,4,C
+9,"Security and Utilities",468,5,Python
+9,"Security and Utilities",468,6,PHP
+9,"Security and Utilities",468,8,Perl
+7,Graphics,469,6,PHP
+7,Graphics,469,7,JavaScript
+4,Development,471,5,Python
+5,"Home and Education",478,2,C#
+4,Development,479,4,C
+4,Development,480,1,Java
+10,"System Administration",484,4,C
+8,"Science and Engineering",485,4,C
+8,"Science and Engineering",485,5,Python
+10,"System Administration",486,2,C#
+3,Communications,488,3,C++
+6,Games,490,1,Java
+6,Games,491,1,Java
+6,Games,491,2,C#
+4,Development,499,5,Python
+4,Development,500,1,Java
+4,Development,501,6,PHP
+8,"Science and Engineering",502,3,C++
+8,"Science and Engineering",502,5,Python
+3,Communications,503,1,Java
+3,Communications,503,3,C++
+4,Development,505,1,Java
+8,"Science and Engineering",508,5,Python
+8,"Science and Engineering",509,5,Python
+4,Development,513,1,Java
+4,Development,513,7,JavaScript
+9,"Security and Utilities",514,3,C++
+10,"System Administration",515,3,C++
+10,"System Administration",515,5,Python
+4,Development,516,5,Python
+9,"Security and Utilities",517,4,C
+7,Graphics,518,1,Java
+4,Development,519,5,Python
+6,Games,523,1,Java
+6,Games,523,5,Python
+4,Development,525,2,C#
+5,"Home and Education",527,6,PHP
+4,Development,530,1,Java
+4,Development,530,13,JSP
+4,Development,533,5,Python
+10,"System Administration",534,3,C++
+7,Graphics,545,3,C++
+4,Development,546,1,Java
+8,"Science and Engineering",547,4,C
+6,Games,548,1,Java
+2,"Business and Enterprise",549,1,Java
+2,"Business and Enterprise",549,7,JavaScript
+2,"Business and Enterprise",549,13,JSP
+6,Games,550,2,C#
+10,"System Administration",553,4,C
+10,"System Administration",553,8,Perl
+6,Games,555,3,C++
+6,Games,555,4,C
+4,Development,560,7,JavaScript
+4,Development,563,4,C
+6,Games,565,4,C
+3,Communications,568,1,Java
+3,Communications,568,3,C++
+3,Communications,568,65,VBScript
+3,Communications,569,1,Java
+6,Games,571,3,C++
+6,Games,571,4,C
+4,Development,572,1,Java
+4,Development,573,1,Java
+4,Development,575,66,Emacs-Lisp
+10,"System Administration",576,3,C++
+3,Communications,577,1,Java
+3,Communications,577,4,C
+3,Communications,577,5,Python
+10,"System Administration",579,5,Python
+6,Games,580,3,C++
+10,"System Administration",581,2,C#
+4,Development,587,1,Java
+8,"Science and Engineering",588,1,Java
+4,Development,592,1,Java
+5,"Home and Education",594,1,Java
+4,Development,595,4,C
+3,Communications,600,7,JavaScript
+4,Development,602,1,Java
+7,Graphics,603,5,Python
+8,"Science and Engineering",607,3,C++
+2,"Business and Enterprise",608,1,Java
+2,"Business and Enterprise",608,7,JavaScript
+10,"System Administration",609,2,C#
+4,Development,611,4,C
+4,Development,612,1,Java
+4,Development,612,6,PHP
+10,"System Administration",613,5,Python
+4,Development,615,6,PHP
+6,Games,616,3,C++
+6,Games,616,5,Python
+3,Communications,617,4,C
+6,Games,623,1,Java
+6,Games,625,3,C++
+6,Games,625,10,Lua
+7,Graphics,627,20,ActionScript
+2,"Business and Enterprise",632,1,Java
+4,Development,633,6,PHP
+4,Development,633,55,Zope
+9,"Security and Utilities",634,8,Perl
+9,"Security and Utilities",634,9,"Unix Shell"
+4,Development,636,3,C++
+4,Development,637,6,PHP
+3,Communications,642,3,C++
+4,Development,646,6,PHP
+4,Development,647,2,C#
+7,Graphics,649,1,Java
+7,Graphics,649,4,C
+7,Graphics,649,57,"GLSL (OpenGL Shading Language)"
+10,"System Administration",650,6,PHP
+4,Development,651,9,"Unix Shell"
+4,Development,655,3,C++
+4,Development,657,5,Python
+4,Development,658,6,PHP
+8,"Science and Engineering",659,80,Science/Research
+7,Graphics,661,4,C
+8,"Science and Engineering",662,24,Fortran
+4,Development,664,6,PHP
+4,Development,664,7,JavaScript
+4,Development,666,1,Java
+10,"System Administration",667,1,Java
+4,Development,669,1,Java
+4,Development,669,7,JavaScript
+4,Development,670,4,C
+6,Games,671,14,"Objective C"
+4,Development,673,1,Java
+4,Development,676,1,Java
+3,Communications,677,1,Java
+10,"System Administration",678,4,C
+10,"System Administration",678,8,Perl
+4,Development,679,1,Java
+4,Development,680,76,Developers
+4,Development,681,1,Java
+4,Development,683,1,Java
+8,"Science and Engineering",686,1,Java
+8,"Science and Engineering",686,8,Perl
+6,Games,687,3,C++
+6,Games,689,1,Java
+6,Games,689,49,Groovy
+8,"Science and Engineering",690,5,Python
+4,Development,692,5,Python
+4,Development,694,1,Java
+4,Development,695,1,Java
+4,Development,698,6,PHP
+9,"Security and Utilities",701,3,C++
+4,Development,706,3,C++
+7,Graphics,717,1,Java
+7,Graphics,717,7,JavaScript
+9,"Security and Utilities",718,19,Assembly
+8,"Science and Engineering",719,1,Java
+4,Development,721,19,Assembly
+7,Graphics,722,3,C++
+4,Development,723,6,PHP
+4,Development,724,3,C++
+3,Communications,725,4,C
+4,Development,731,2,C#
+4,Development,733,4,C
+4,Development,736,3,C++
+4,Development,736,4,C
+4,Development,738,1,Java
+4,Development,739,1,Java
+8,"Science and Engineering",741,5,Python
+8,"Science and Engineering",743,1,Java
+4,Development,744,6,PHP
+4,Development,744,7,JavaScript
+4,Development,747,1,Java
+4,Development,750,6,PHP
+3,Communications,751,5,Python
+4,Development,752,6,PHP
+4,Development,752,7,JavaScript
+8,"Science and Engineering",753,3,C++
+8,"Science and Engineering",755,9,"Unix Shell"
+4,Development,756,1,Java
+10,"System Administration",757,4,C
+6,Games,759,3,C++
+6,Games,759,4,C
+7,Graphics,760,1,Java
+9,"Security and Utilities",761,2,C#
+8,"Science and Engineering",763,4,C
+8,"Science and Engineering",765,1,Java
+8,"Science and Engineering",765,5,Python
+4,Development,766,6,PHP
+8,"Science and Engineering",769,3,C++
+10,"System Administration",772,4,C
+10,"System Administration",772,19,Assembly
+8,"Science and Engineering",775,12,MATLAB
+8,"Science and Engineering",776,3,C++
+8,"Science and Engineering",777,3,C++
+8,"Science and Engineering",777,4,C
+4,Development,778,3,C++
+3,Communications,781,10,Lua
+4,Development,804,3,C++
+4,Development,808,6,PHP
+4,Development,811,5,Python
+4,Development,816,1,Java
+2,"Business and Enterprise",817,6,PHP
+4,Development,819,76,Developers
+4,Development,819,77,"Information Technology"
+4,Development,819,78,"End Users/Desktop"
+4,Development,819,79,Testers
+4,Development,821,14,"Objective C"
+4,Development,823,6,PHP
+4,Development,824,2,C#
+8,"Science and Engineering",825,48,Pascal
+4,Development,826,6,PHP
+1,"Audio and Video",827,2,C#
+1,"Audio and Video",827,3,C++
+4,Development,831,2,C#
+4,Development,835,1,Java
+4,Development,835,4,C
+10,"System Administration",837,4,C
+10,"System Administration",837,5,Python
+9,"Security and Utilities",838,5,Python
+4,Development,842,1,Java
+4,Development,843,1,Java
+4,Development,844,6,PHP
+4,Development,845,4,C
+10,"System Administration",846,4,C
+4,Development,849,14,"Objective C"
+5,"Home and Education",850,1,Java
+10,"System Administration",852,3,C++
+4,Development,854,76,Developers
+8,"Science and Engineering",857,80,Science/Research
+10,"System Administration",858,1,Java
+4,Development,862,3,C++
+7,Graphics,863,3,C++
+4,Development,865,1,Java
+8,"Science and Engineering",866,3,C++
+8,"Science and Engineering",866,82,Yacc
+8,"Science and Engineering",869,5,Python
+4,Development,880,1,Java
+4,Development,882,6,PHP
+8,"Science and Engineering",884,3,C++
+8,"Science and Engineering",884,4,C
+8,"Science and Engineering",884,24,Fortran
+4,Development,887,5,Python
+8,"Science and Engineering",888,3,C++
+8,"Science and Engineering",889,1,Java
+8,"Science and Engineering",889,83,Flex
+4,Development,890,5,Python
+8,"Science and Engineering",891,3,C++
+8,"Science and Engineering",891,5,Python
+2,"Business and Enterprise",892,6,PHP
+9,"Security and Utilities",893,4,C
+10,"System Administration",894,3,C++
+4,Development,896,6,PHP
+8,"Science and Engineering",897,1,Java
+3,Communications,898,1,Java
+3,Communications,899,5,Python
+4,Development,900,3,C++
+1,"Audio and Video",901,4,C
+4,Development,902,6,PHP
+9,"Security and Utilities",904,4,C
+9,"Security and Utilities",905,8,Perl
+6,Games,907,1,Java
+5,"Home and Education",909,6,PHP
+3,Communications,911,84,"Non-interactive (Daemon)"
+8,"Science and Engineering",914,1,Java
+3,Communications,916,5,Python
+6,Games,918,1,Java
+4,Development,919,1,Java
+3,Communications,920,2,C#
+6,Games,921,4,C
+4,Development,922,1,Java
+4,Development,922,2,C#
+4,Development,922,7,JavaScript
+6,Games,923,3,C++
+10,"System Administration",924,3,C++
+8,"Science and Engineering",928,5,Python
+8,"Science and Engineering",931,3,C++
+4,Development,932,6,PHP
+4,Development,933,17,Delphi/Kylix
+4,Development,935,3,C++
+4,Development,935,4,C
+4,Development,937,2,C#
+10,"System Administration",939,3,C++
+10,"System Administration",940,3,C++
+10,"System Administration",941,3,C++
+8,"Science and Engineering",944,1,Java
+8,"Science and Engineering",945,2,C#
+8,"Science and Engineering",945,3,C++
+8,"Science and Engineering",945,17,Delphi/Kylix
+8,"Science and Engineering",945,65,VBScript
+4,Development,946,1,Java
+4,Development,947,1,Java
+8,"Science and Engineering",948,1,Java
+6,Games,949,2,C#
+4,Development,950,1,Java
+3,Communications,951,4,C
+4,Development,952,1,Java
+8,"Science and Engineering",953,2,C#
+9,"Security and Utilities",954,7,JavaScript
+8,"Science and Engineering",955,3,C++
+1,"Audio and Video",956,1,Java
+8,"Science and Engineering",957,3,C++
+8,"Science and Engineering",957,5,Python
+6,Games,959,1,Java
+10,"System Administration",960,5,Python
+4,Development,961,1,Java
+8,"Science and Engineering",963,3,C++
+8,"Science and Engineering",963,4,C
+10,"System Administration",964,1,Java
+10,"System Administration",965,5,Python
+8,"Science and Engineering",966,1,Java
+8,"Science and Engineering",966,50,Scala
+4,Development,967,5,Python
+4,Development,968,1,Java
+8,"Science and Engineering",969,3,C++
+8,"Science and Engineering",969,5,Python
+4,Development,970,3,C++
+4,Development,970,4,C
+4,Development,972,1,Java
+4,Development,973,1,Java
+1,"Audio and Video",975,3,C++
+4,Development,976,5,Python
+3,Communications,977,1,Java
+3,Communications,977,5,Python
+4,Development,978,1,Java
+4,Development,979,3,C++
+4,Development,979,7,JavaScript
+4,Development,982,1,Java
+8,"Science and Engineering",988,3,C++
+10,"System Administration",994,1,Java
+4,Development,995,1,Java
+4,Development,996,3,C++
+6,Games,997,5,Python
+6,Games,998,1,Java
+3,Communications,1000,8,Perl
+5,"Home and Education",1001,6,PHP
+5,"Home and Education",1001,7,JavaScript
+8,"Science and Engineering",1002,5,Python
+4,Development,1003,1,Java
+8,"Science and Engineering",1005,1,Java
+2,"Business and Enterprise",1006,2,C#
+5,"Home and Education",1007,7,JavaScript
+5,"Home and Education",1007,8,Perl
+3,Communications,1008,4,C
+1,"Audio and Video",1009,5,Python
+8,"Science and Engineering",1010,3,C++
+4,Development,1015,1,Java
+2,"Business and Enterprise",1016,5,Python
+4,Development,1020,88,D
+8,"Science and Engineering",1025,5,Python
+4,Development,1027,3,C++
+8,"Science and Engineering",1030,1,Java
+2,"Business and Enterprise",1031,2,C#
+4,Development,1032,1,Java
+8,"Science and Engineering",1033,3,C++
+8,"Science and Engineering",1033,4,C
+4,Development,1034,6,PHP
+6,Games,1035,1,Java
+4,Development,1038,6,PHP
+4,Development,1038,7,JavaScript
+2,"Business and Enterprise",1039,6,PHP
+3,Communications,1040,5,Python
+4,Development,1041,6,PHP
+4,Development,1043,1,Java
+8,"Science and Engineering",1044,1,Java
+8,"Science and Engineering",1046,5,Python
+4,Development,1047,6,PHP
+4,Development,1048,6,PHP
+4,Development,1050,1,Java
+4,Development,1050,3,C++
+8,"Science and Engineering",1051,6,PHP
+8,"Science and Engineering",1051,7,JavaScript
+4,Development,1052,8,Perl
+4,Development,1052,89,"XSL (XSLT/XPath/XSL-FO)"
+10,"System Administration",1053,87,"System Administrators"
+4,Development,1055,1,Java
+9,"Security and Utilities",1056,4,C
+4,Development,1057,4,C
+4,Development,1058,1,Java
+10,"System Administration",1059,9,"Unix Shell"
+5,"Home and Education",1060,6,PHP
+8,"Science and Engineering",1062,3,C++
+8,"Science and Engineering",1062,4,C
+8,"Science and Engineering",1062,6,PHP
+8,"Science and Engineering",1062,9,"Unix Shell"
+4,Development,1064,3,C++
+3,Communications,1065,2,C#
+3,Communications,1065,7,JavaScript
+4,Development,1067,1,Java
+8,"Science and Engineering",1068,80,Science/Research
+8,"Science and Engineering",1068,90,Education
+3,Communications,1071,18,"Visual Basic"
+3,Communications,1071,91,"Visual Basic for Applications (VBA)"
+4,Development,1072,6,PHP
+3,Communications,1073,1,Java
+3,Communications,1073,2,C#
+4,Development,1074,4,C
+4,Development,1074,10,Lua
+4,Development,1075,92,Erlang
+1,"Audio and Video",1076,2,C#
+7,Graphics,1077,5,Python
+4,Development,1078,1,Java
+6,Games,1079,1,Java
+6,Games,1079,5,Python
+6,Games,1079,7,JavaScript
+6,Games,1079,8,Perl
+9,"Security and Utilities",1080,4,C
+9,"Security and Utilities",1080,19,Assembly
+4,Development,1081,6,PHP
+4,Development,1082,3,C++
+4,Development,1082,4,C
+8,"Science and Engineering",1083,1,Java
+4,Development,1084,7,JavaScript
+2,"Business and Enterprise",1086,2,C#
+5,"Home and Education",1090,3,C++
+6,Games,1092,6,PHP
+4,Development,1093,6,PHP
+6,Games,1094,1,Java
+4,Development,1095,1,Java
+4,Development,1096,3,C++
+4,Development,1097,4,C
+6,Games,1098,6,PHP
+6,Games,1098,7,JavaScript
+6,Games,1099,8,Perl
+10,"System Administration",1100,2,C#
+2,"Business and Enterprise",1101,1,Java
+2,"Business and Enterprise",1101,7,JavaScript
+2,"Business and Enterprise",1101,13,JSP
+6,Games,1102,6,PHP
+9,"Security and Utilities",1103,5,Python
+7,Graphics,1105,1,Java
+6,Games,1110,2,C#
+4,Development,1111,3,C++
+4,Development,1111,4,C
+4,Development,1112,5,Python
+1,"Audio and Video",1115,1,Java
+4,Development,1116,2,C#
+4,Development,1116,3,C++
+4,Development,1116,7,JavaScript
+4,Development,1116,93,IDL
+8,"Science and Engineering",1117,3,C++
+8,"Science and Engineering",1117,5,Python
+8,"Science and Engineering",1118,3,C++
+4,Development,1120,76,Developers
+4,Development,1120,77,"Information Technology"
+4,Development,1120,86,"Advanced End Users"
+4,Development,1121,5,Python
+7,Graphics,1122,1,Java
+8,"Science and Engineering",1126,3,C++
+8,"Science and Engineering",1126,5,Python
+8,"Science and Engineering",1127,4,C
+10,"System Administration",1128,4,C
+8,"Science and Engineering",1131,3,C++
+8,"Science and Engineering",1134,3,C++
+3,Communications,1135,2,C#
+6,Games,1137,3,C++
+8,"Science and Engineering",1138,1,Java
+8,"Science and Engineering",1139,1,Java
+8,"Science and Engineering",1140,3,C++
+6,Games,1141,3,C++
+6,Games,1141,10,Lua
+4,Development,1142,4,C
+8,"Science and Engineering",1144,3,C++
+4,Development,1145,80,Science/Research
+4,Development,1145,85,"Non-Profit Organizations"
+4,Development,1145,94,"Telecommunications Industry"
+4,Development,1145,95,Religion
+4,Development,1146,1,Java
+8,"Science and Engineering",1147,9,"Unix Shell"
+3,Communications,1148,1,Java
+9,"Security and Utilities",1149,76,Developers
+9,"Security and Utilities",1149,79,Testers
+9,"Security and Utilities",1149,87,"System Administrators"
+9,"Security and Utilities",1149,96,"Security Professionals"
+10,"System Administration",1150,5,Python
+10,"System Administration",1152,4,C
+10,"System Administration",1152,10,Lua
+10,"System Administration",1152,11,Ruby
+9,"Security and Utilities",1153,5,Python
+8,"Science and Engineering",1154,5,Python
+8,"Science and Engineering",1154,97,S/R
+6,Games,1157,2,C#
+4,Development,1158,3,C++
+4,Development,1159,2,C#
+4,Development,1161,1,Java
+4,Development,1161,13,JSP
+4,Development,1163,3,C++
+4,Development,1163,4,C
+2,"Business and Enterprise",1164,3,C++
+2,"Business and Enterprise",1164,4,C
+2,"Business and Enterprise",1164,6,PHP
+2,"Business and Enterprise",1164,8,Perl
+4,Development,1165,1,Java
+3,Communications,1166,4,C
+4,Development,1168,24,Fortran
+2,"Business and Enterprise",1171,6,PHP
+2,"Business and Enterprise",1171,7,JavaScript
+10,"System Administration",1175,3,C++
+10,"System Administration",1175,7,JavaScript
+2,"Business and Enterprise",1177,7,JavaScript
+4,Development,1178,3,C++
+10,"System Administration",1182,3,C++
+10,"System Administration",1182,4,C
+7,Graphics,1183,1,Java
+8,"Science and Engineering",1186,1,Java
+8,"Science and Engineering",1186,8,Perl
+6,Games,1187,3,C++
+4,Development,1188,6,PHP
+4,Development,1189,9,"Unix Shell"
+10,"System Administration",1190,7,JavaScript
+10,"System Administration",1190,9,"Unix Shell"
+10,"System Administration",1190,11,Ruby
+8,"Science and Engineering",1191,1,Java
+8,"Science and Engineering",1191,2,C#
+4,Development,1192,92,Erlang
+8,"Science and Engineering",1194,8,Perl
+3,Communications,1195,4,C
+4,Development,1196,1,Java
+4,Development,1197,5,Python
+4,Development,1200,7,JavaScript
+4,Development,1202,6,PHP
+4,Development,1205,1,Java
+4,Development,1205,3,C++
+4,Development,1205,5,Python
+4,Development,1205,97,S/R
+4,Development,1206,8,Perl
+7,Graphics,1207,8,Perl
+8,"Science and Engineering",1208,5,Python
+7,Graphics,1210,3,C++
+5,"Home and Education",1217,6,PHP
+6,Games,1220,17,Delphi/Kylix
+2,"Business and Enterprise",1222,1,Java
+7,Graphics,1225,3,C++
+10,"System Administration",1226,1,Java
+4,Development,1227,1,Java
+8,"Science and Engineering",1228,6,PHP
+8,"Science and Engineering",1228,7,JavaScript
+6,Games,1229,4,C
+8,"Science and Engineering",1231,7,JavaScript
+8,"Science and Engineering",1231,8,Perl
+8,"Science and Engineering",1232,5,Python
+10,"System Administration",1233,2,C#
+4,Development,1234,6,PHP
+4,Development,1234,20,ActionScript
+7,Graphics,1235,2,C#
+7,Graphics,1235,3,C++
+7,Graphics,1235,17,Delphi/Kylix
+4,Development,1236,3,C++
+7,Graphics,1238,2,C#
+6,Games,1239,3,C++
+4,Development,1241,98,"Standard ML"
+4,Development,1242,6,PHP
+5,"Home and Education",1244,2,C#
+5,"Home and Education",1244,22,ASP.NET
+6,Games,1245,4,C
+4,Development,1246,1,Java
+2,"Business and Enterprise",1247,6,PHP
+10,"System Administration",1248,1,Java
+10,"System Administration",1249,50,Scala
+4,Development,1251,1,Java
+4,Development,1251,3,C++
+4,Development,1251,11,Ruby
+3,Communications,1252,3,C++
+3,Communications,1252,4,C

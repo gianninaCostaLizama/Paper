@@ -1,0 +1,288 @@
+oss,topic_id,topic_name,overall_rating
+1,6,Games,5
+5,6,Games,5
+7,8,"Science and Engineering",5
+9,7,Graphics,5
+13,6,Games,5
+29,4,Development,5
+36,10,"System Administration",5
+37,4,Development,5
+41,5,"Home and Education",5
+45,10,"System Administration",5
+48,4,Development,5
+49,6,Games,5
+50,4,Development,5
+52,8,"Science and Engineering",5
+53,4,Development,5
+56,9,"Security and Utilities",5
+57,4,Development,4
+58,4,Development,5
+62,5,"Home and Education",5
+67,7,Graphics,5
+68,4,Development,5
+74,4,Development,5
+77,2,"Business and Enterprise",5
+81,7,Graphics,5
+82,2,"Business and Enterprise",5
+84,9,"Security and Utilities",5
+85,6,Games,5
+86,6,Games,5
+89,4,Development,3
+94,4,Development,5
+95,4,Development,5
+96,2,"Business and Enterprise",5
+97,10,"System Administration",4
+98,3,Communications,5
+99,10,"System Administration",5
+101,6,Games,5
+102,4,Development,5
+107,10,"System Administration",5
+108,6,Games,5
+109,10,"System Administration",4
+110,7,Graphics,5
+111,10,"System Administration",5
+115,8,"Science and Engineering",5
+116,6,Games,5
+117,8,"Science and Engineering",5
+122,6,Games,5
+123,2,"Business and Enterprise",5
+125,4,Development,5
+128,3,Communications,5
+129,4,Development,5
+134,2,"Business and Enterprise",4
+135,4,Development,5
+136,4,Development,5
+137,4,Development,5
+138,4,Development,5
+139,4,Development,4
+140,4,Development,5
+142,4,Development,5
+143,4,Development,5
+144,10,"System Administration",4
+145,6,Games,5
+149,9,"Security and Utilities",5
+150,4,Development,5
+151,8,"Science and Engineering",5
+155,8,"Science and Engineering",5
+156,10,"System Administration",5
+157,4,Development,5
+159,10,"System Administration",5
+160,9,"Security and Utilities",5
+161,10,"System Administration",5
+162,4,Development,5
+163,6,Games,4
+164,3,Communications,5
+165,6,Games,5
+167,2,"Business and Enterprise",5
+168,8,"Science and Engineering",4
+169,8,"Science and Engineering",5
+171,8,"Science and Engineering",5
+172,8,"Science and Engineering",5
+173,4,Development,5
+174,10,"System Administration",5
+175,4,Development,5
+183,10,"System Administration",4
+188,10,"System Administration",5
+189,4,Development,5
+190,4,Development,5
+191,8,"Science and Engineering",5
+193,6,Games,4
+195,8,"Science and Engineering",5
+197,4,Development,5
+198,6,Games,5
+199,8,"Science and Engineering",5
+201,4,Development,5
+203,10,"System Administration",5
+204,8,"Science and Engineering",5
+205,4,Development,5
+209,4,Development,5
+211,3,Communications,5
+214,6,Games,5
+217,8,"Science and Engineering",5
+219,4,Development,4
+220,9,"Security and Utilities",5
+223,4,Development,5
+226,10,"System Administration",5
+228,4,Development,5
+229,10,"System Administration",4
+230,4,Development,5
+232,4,Development,4
+233,4,Development,4
+234,10,"System Administration",5
+235,10,"System Administration",5
+236,1,"Audio and Video",5
+239,6,Games,5
+240,4,Development,5
+244,4,Development,5
+245,4,Development,5
+246,4,Development,4
+248,1,"Audio and Video",5
+253,8,"Science and Engineering",5
+254,4,Development,5
+257,4,Development,5
+266,4,Development,5
+267,8,"Science and Engineering",5
+268,4,Development,5
+270,4,Development,5
+271,4,Development,4
+272,10,"System Administration",5
+273,4,Development,5
+276,4,Development,5
+278,6,Games,5
+279,4,Development,5
+281,4,Development,5
+282,4,Development,5
+286,4,Development,5
+288,4,Development,5
+289,8,"Science and Engineering",5
+290,4,Development,4
+291,8,"Science and Engineering",5
+294,2,"Business and Enterprise",5
+296,4,Development,5
+299,4,Development,4
+300,6,Games,3
+302,4,Development,5
+303,4,Development,4
+304,8,"Science and Engineering",5
+308,10,"System Administration",5
+309,4,Development,5
+310,4,Development,5
+313,4,Development,5
+315,10,"System Administration",2
+316,4,Development,5
+317,6,Games,5
+322,4,Development,5
+325,4,Development,5
+330,4,Development,5
+336,4,Development,5
+337,8,"Science and Engineering",5
+340,6,Games,5
+344,4,Development,5
+346,4,Development,5
+348,10,"System Administration",5
+351,7,Graphics,5
+352,10,"System Administration",5
+354,10,"System Administration",5
+355,10,"System Administration",5
+361,4,Development,5
+362,2,"Business and Enterprise",5
+364,4,Development,4
+368,9,"Security and Utilities",5
+370,4,Development,5
+371,8,"Science and Engineering",5
+372,4,Development,5
+373,2,"Business and Enterprise",5
+378,4,Development,5
+380,6,Games,4
+386,2,"Business and Enterprise",5
+396,2,"Business and Enterprise",5
+399,4,Development,5
+400,8,"Science and Engineering",5
+401,4,Development,5
+402,2,"Business and Enterprise",1
+417,4,Development,5
+424,6,Games,5
+426,2,"Business and Enterprise",5
+437,4,Development,5
+315,10,"System Administration",2
+439,4,Development,5
+457,4,Development,3
+463,10,"System Administration",1
+468,9,"Security and Utilities",5
+469,7,Graphics,5
+484,10,"System Administration",1
+516,4,Development,5
+517,9,"Security and Utilities",5
+527,5,"Home and Education",5
+530,4,Development,5
+534,10,"System Administration",5
+304,8,"Science and Engineering",5
+545,7,Graphics,5
+563,4,Development,5
+573,4,Development,5
+579,10,"System Administration",5
+603,7,Graphics,1
+612,4,Development,5
+625,6,Games,4
+634,9,"Security and Utilities",5
+636,4,Development,3
+637,4,Development,5
+642,3,Communications,5
+647,4,Development,5
+655,4,Development,5
+657,4,Development,5
+667,10,"System Administration",5
+669,4,Development,5
+671,6,Games,5
+680,4,Development,5
+686,8,"Science and Engineering",5
+689,6,Games,5
+690,8,"Science and Engineering",5
+692,4,Development,4
+706,4,Development,5
+717,7,Graphics,5
+723,4,Development,5
+769,8,"Science and Engineering",5
+772,10,"System Administration",5
+775,8,"Science and Engineering",5
+808,4,Development,5
+817,2,"Business and Enterprise",5
+826,4,Development,5
+827,1,"Audio and Video",5
+844,4,Development,5
+845,4,Development,5
+849,4,Development,5
+882,4,Development,5
+889,8,"Science and Engineering",5
+891,8,"Science and Engineering",5
+899,3,Communications,5
+900,4,Development,5
+904,9,"Security and Utilities",5
+905,9,"Security and Utilities",5
+911,3,Communications,5
+914,8,"Science and Engineering",5
+928,8,"Science and Engineering",5
+932,4,Development,5
+933,4,Development,5
+937,4,Development,5
+947,4,Development,5
+949,6,Games,5
+955,8,"Science and Engineering",5
+961,4,Development,5
+680,4,Development,5
+966,8,"Science and Engineering",5
+967,4,Development,5
+976,4,Development,5
+997,6,Games,5
+1006,2,"Business and Enterprise",5
+1009,1,"Audio and Video",5
+1016,2,"Business and Enterprise",5
+1033,8,"Science and Engineering",5
+1050,4,Development,5
+1055,4,Development,5
+1059,10,"System Administration",5
+1062,8,"Science and Engineering",5
+1067,4,Development,5
+1075,4,Development,5
+1097,4,Development,2
+1099,6,Games,5
+1111,4,Development,5
+1117,8,"Science and Engineering",5
+1120,4,Development,5
+1121,4,Development,5
+1135,3,Communications,5
+1140,8,"Science and Engineering",3
+1145,4,Development,5
+1147,8,"Science and Engineering",4
+1150,10,"System Administration",5
+1152,10,"System Administration",5
+1153,9,"Security and Utilities",3
+1154,8,"Science and Engineering",5
+1157,6,Games,5
+1164,2,"Business and Enterprise",5
+1192,4,Development,5
+1225,7,Graphics,5
+1228,8,"Science and Engineering",5
+1232,8,"Science and Engineering",5
+1244,5,"Home and Education",5
+1247,2,"Business and Enterprise",5

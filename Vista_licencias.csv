@@ -1,0 +1,733 @@
+topic_id,topic_name,oss_id,license_id,license_name
+6,Games,1,17,other_license
+6,Games,5,6,mit_license
+8,"Science and Engineering",7,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+7,Graphics,9,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,13,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,29,6,mit_license
+4,Development,29,16,public_domain
+10,"System Administration",36,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,37,5,apache_license_v2.0
+5,"Home and Education",41,11,open_software_license_3.0_(osl3.0)
+10,"System Administration",45,2,bsd_license
+4,Development,48,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,49,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,50,5,apache_license_v2.0
+8,"Science and Engineering",52,2,bsd_license
+8,"Science and Engineering",52,6,mit_license
+4,Development,53,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+9,"Security and Utilities",56,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,57,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,58,1,gnu_general_public_license_version_2.0_(gplv2)
+5,"Home and Education",62,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,68,5,apache_license_v2.0
+4,Development,73,24,mozilla_public_license_2.0_(mpl_2.0)
+4,Development,74,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",77,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+2,"Business and Enterprise",77,33,mozilla_public_license_1.0_(mpl)
+7,Graphics,81,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,81,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+2,"Business and Enterprise",82,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",84,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,85,6,mit_license
+6,Games,86,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,89,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,94,2,bsd_license
+4,Development,95,22,eclipse_public_license
+2,"Business and Enterprise",96,3,gnu_general_public_license_version_3.0_(gplv3)
+2,"Business and Enterprise",96,6,mit_license
+10,"System Administration",97,1,gnu_general_public_license_version_2.0_(gplv2)
+3,Communications,98,16,public_domain
+10,"System Administration",99,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,101,2,bsd_license
+4,Development,102,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,102,2,bsd_license
+6,Games,104,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,104,19,creative_commons_attribution_sharealike_license_v3.0
+10,"System Administration",107,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,108,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",109,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",109,6,mit_license
+7,Graphics,110,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",111,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",113,2,bsd_license
+8,"Science and Engineering",115,2,bsd_license
+6,Games,116,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",117,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,122,21,zlib_libpng_license
+2,"Business and Enterprise",123,2,bsd_license
+4,Development,125,5,apache_license_v2.0
+3,Communications,128,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,129,38,isc_license
+4,Development,131,5,apache_license_v2.0
+2,"Business and Enterprise",134,39,creative_commons_attribution_license
+4,Development,135,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,136,5,apache_license_v2.0
+4,Development,136,6,mit_license
+4,Development,137,2,bsd_license
+4,Development,138,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,139,14,affero_gnu_public_license
+4,Development,140,2,bsd_license
+4,Development,142,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,142,24,mozilla_public_license_2.0_(mpl_2.0)
+4,Development,143,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+10,"System Administration",144,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,145,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+9,"Security and Utilities",149,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+4,Development,150,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,150,2,bsd_license
+4,Development,150,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",151,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",155,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",156,16,public_domain
+4,Development,157,6,mit_license
+10,"System Administration",159,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",160,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",161,10,apache_software_license
+4,Development,162,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,163,21,zlib_libpng_license
+3,Communications,164,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,165,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,166,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,166,17,other_license
+2,"Business and Enterprise",167,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",168,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",169,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",171,6,mit_license
+8,"Science and Engineering",172,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,173,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+10,"System Administration",174,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,175,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",180,40,academic_free_license_(afl)
+10,"System Administration",183,2,bsd_license
+10,"System Administration",188,6,mit_license
+4,Development,189,2,bsd_license
+4,Development,190,2,bsd_license
+6,Games,193,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+6,Games,198,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,198,17,other_license
+4,Development,201,41,boost_software_license_(bsl1.0)
+10,"System Administration",202,5,apache_license_v2.0
+10,"System Administration",203,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",203,9,artistic_license
+8,"Science and Engineering",204,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,205,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,209,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,210,39,creative_commons_attribution_license
+3,Communications,211,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,214,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",216,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,219,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+9,"Security and Utilities",220,19,creative_commons_attribution_sharealike_license_v3.0
+10,"System Administration",221,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,222,6,mit_license
+4,Development,223,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+10,"System Administration",226,42,open_software_license
+4,Development,228,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",229,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,230,5,apache_license_v2.0
+9,"Security and Utilities",231,2,bsd_license
+4,Development,232,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,233,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+10,"System Administration",234,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",235,2,bsd_license
+1,"Audio and Video",236,24,mozilla_public_license_2.0_(mpl_2.0)
+4,Development,237,6,mit_license
+6,Games,239,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,239,5,apache_license_v2.0
+4,Development,240,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,240,6,mit_license
+6,Games,242,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,244,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,244,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,244,13,mozilla_public_license_1.1_(mpl_1.1)
+4,Development,245,1,gnu_general_public_license_version_2.0_(gplv2)
+1,"Audio and Video",248,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,252,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",253,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,254,2,bsd_license
+4,Development,255,14,affero_gnu_public_license
+8,"Science and Engineering",256,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,257,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,259,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,265,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,266,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",267,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,268,2,bsd_license
+4,Development,271,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+10,"System Administration",272,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,273,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,276,5,apache_license_v2.0
+6,Games,278,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,279,19,creative_commons_attribution_sharealike_license_v3.0
+4,Development,281,24,mozilla_public_license_2.0_(mpl_2.0)
+4,Development,282,2,bsd_license
+8,"Science and Engineering",283,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,285,41,boost_software_license_(bsl1.0)
+4,Development,286,5,apache_license_v2.0
+4,Development,288,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,290,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",291,5,apache_license_v2.0
+2,"Business and Enterprise",294,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+2,"Business and Enterprise",294,5,apache_license_v2.0
+4,Development,296,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",297,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,299,22,eclipse_public_license
+6,Games,300,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,302,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,303,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",304,17,other_license
+10,"System Administration",308,12,common_public_license_1.0
+4,Development,309,5,apache_license_v2.0
+4,Development,310,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,311,3,gnu_general_public_license_version_3.0_(gplv3)
+2,"Business and Enterprise",312,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,313,2,bsd_license
+4,Development,316,6,mit_license
+6,Games,317,5,apache_license_v2.0
+10,"System Administration",318,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,319,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,322,2,bsd_license
+4,Development,325,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",326,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",327,2,bsd_license
+4,Development,330,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,331,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,336,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",337,1,gnu_general_public_license_version_2.0_(gplv2)
+1,"Audio and Video",338,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,340,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",341,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",343,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,344,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",345,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,346,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,346,22,eclipse_public_license
+4,Development,347,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",348,2,bsd_license
+9,"Security and Utilities",350,3,gnu_general_public_license_version_3.0_(gplv3)
+7,Graphics,351,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+10,"System Administration",352,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",354,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",355,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",355,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+9,"Security and Utilities",359,14,affero_gnu_public_license
+9,"Security and Utilities",359,17,other_license
+6,Games,360,19,creative_commons_attribution_sharealike_license_v3.0
+4,Development,361,3,gnu_general_public_license_version_3.0_(gplv3)
+2,"Business and Enterprise",362,5,apache_license_v2.0
+4,Development,364,22,eclipse_public_license
+10,"System Administration",365,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,366,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,366,16,public_domain
+9,"Security and Utilities",368,22,eclipse_public_license
+4,Development,370,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",371,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,372,2,bsd_license
+2,"Business and Enterprise",373,14,affero_gnu_public_license
+8,"Science and Engineering",374,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,378,5,apache_license_v2.0
+6,Games,380,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+2,"Business and Enterprise",386,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",387,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",388,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",388,10,apache_software_license
+4,Development,389,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",396,44,zope_public_license
+5,"Home and Education",397,14,affero_gnu_public_license
+4,Development,398,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,399,5,apache_license_v2.0
+8,"Science and Engineering",400,9,artistic_license
+4,Development,401,3,gnu_general_public_license_version_3.0_(gplv3)
+2,"Business and Enterprise",402,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",404,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,406,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",407,3,gnu_general_public_license_version_3.0_(gplv3)
+1,"Audio and Video",408,21,zlib_libpng_license
+2,"Business and Enterprise",409,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,411,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",413,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,415,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",416,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,417,2,bsd_license
+4,Development,418,5,apache_license_v2.0
+6,Games,424,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,425,5,apache_license_v2.0
+2,"Business and Enterprise",426,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+4,Development,430,2,bsd_license
+10,"System Administration",431,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,437,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,439,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,445,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,446,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,446,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",449,2,bsd_license
+4,Development,451,14,affero_gnu_public_license
+8,"Science and Engineering",454,2,bsd_license
+4,Development,457,45,open_font_license_1.1_(ofl_1.1)
+5,"Home and Education",459,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,460,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,461,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,462,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,462,16,public_domain
+10,"System Administration",463,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",464,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,465,6,mit_license
+3,Communications,466,3,gnu_general_public_license_version_3.0_(gplv3)
+9,"Security and Utilities",468,5,apache_license_v2.0
+7,Graphics,469,3,gnu_general_public_license_version_3.0_(gplv3)
+7,Graphics,469,5,apache_license_v2.0
+4,Development,471,6,mit_license
+5,"Home and Education",478,18,creative_commons_attribution_non_commercial_license_v2.0
+5,"Home and Education",478,19,creative_commons_attribution_sharealike_license_v3.0
+4,Development,479,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,480,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",484,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",485,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",486,5,apache_license_v2.0
+3,Communications,488,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,490,16,public_domain
+6,Games,491,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",496,2,bsd_license
+4,Development,499,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,500,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,501,2,bsd_license
+8,"Science and Engineering",502,1,gnu_general_public_license_version_2.0_(gplv2)
+3,Communications,503,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,505,14,affero_gnu_public_license
+8,"Science and Engineering",508,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",509,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,513,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",514,21,zlib_libpng_license
+10,"System Administration",515,18,creative_commons_attribution_non_commercial_license_v2.0
+4,Development,516,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",517,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,518,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,519,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+6,Games,523,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,524,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,525,2,bsd_license
+5,"Home and Education",527,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,530,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,533,2,bsd_license
+10,"System Administration",534,2,bsd_license
+8,"Science and Engineering",544,6,mit_license
+8,"Science and Engineering",544,17,other_license
+8,"Science and Engineering",544,19,creative_commons_attribution_sharealike_license_v3.0
+7,Graphics,545,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,546,5,apache_license_v2.0
+8,"Science and Engineering",547,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,548,3,gnu_general_public_license_version_3.0_(gplv3)
+2,"Business and Enterprise",549,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,550,2,bsd_license
+10,"System Administration",553,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,555,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,555,9,artistic_license
+4,Development,556,17,other_license
+4,Development,563,38,isc_license
+6,Games,565,1,gnu_general_public_license_version_2.0_(gplv2)
+3,Communications,568,5,apache_license_v2.0
+3,Communications,569,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,571,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,572,2,bsd_license
+4,Development,573,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,575,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",576,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,577,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",579,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,580,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",581,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,587,39,creative_commons_attribution_license
+8,"Science and Engineering",588,5,apache_license_v2.0
+4,Development,592,5,apache_license_v2.0
+1,"Audio and Video",593,2,bsd_license
+1,"Audio and Video",593,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+5,"Home and Education",594,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,595,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,600,1,gnu_general_public_license_version_2.0_(gplv2)
+3,Communications,600,2,bsd_license
+3,Communications,600,5,apache_license_v2.0
+4,Development,602,5,apache_license_v2.0
+7,Graphics,603,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",607,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+2,"Business and Enterprise",608,5,apache_license_v2.0
+10,"System Administration",609,24,mozilla_public_license_2.0_(mpl_2.0)
+4,Development,611,5,apache_license_v2.0
+4,Development,612,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",613,5,apache_license_v2.0
+4,Development,615,16,public_domain
+3,Communications,617,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,623,6,mit_license
+6,Games,625,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,627,2,bsd_license
+2,"Business and Enterprise",632,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,633,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+9,"Security and Utilities",634,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,636,5,apache_license_v2.0
+4,Development,637,2,bsd_license
+10,"System Administration",641,6,mit_license
+3,Communications,642,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,646,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,647,3,gnu_general_public_license_version_3.0_(gplv3)
+7,Graphics,649,24,mozilla_public_license_2.0_(mpl_2.0)
+10,"System Administration",650,6,mit_license
+4,Development,651,2,bsd_license
+4,Development,652,45,open_font_license_1.1_(ofl_1.1)
+4,Development,655,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",656,2,bsd_license
+4,Development,657,6,mit_license
+4,Development,658,16,public_domain
+8,"Science and Engineering",659,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,660,2,bsd_license
+7,Graphics,661,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,664,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,666,2,bsd_license
+10,"System Administration",667,2,bsd_license
+4,Development,669,6,mit_license
+4,Development,669,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+4,Development,670,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,671,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,673,5,apache_license_v2.0
+4,Development,676,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+3,Communications,677,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+10,"System Administration",678,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",678,9,artistic_license
+4,Development,679,2,bsd_license
+4,Development,680,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,681,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,683,46,non_profit_open_software_license_3.0_(non_profit_osl_3.0)
+8,"Science and Engineering",686,6,mit_license
+6,Games,687,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,689,2,bsd_license
+8,"Science and Engineering",690,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,692,6,mit_license
+4,Development,694,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+4,Development,695,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,698,39,creative_commons_attribution_license
+9,"Security and Utilities",701,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+4,Development,706,2,bsd_license
+7,Graphics,717,5,apache_license_v2.0
+9,"Security and Utilities",718,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",719,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+3,Communications,720,2,bsd_license
+4,Development,721,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,721,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+7,Graphics,722,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,723,14,affero_gnu_public_license
+4,Development,724,2,bsd_license
+3,Communications,725,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",726,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",729,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,733,17,other_license
+4,Development,736,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,738,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,739,10,apache_software_license
+8,"Science and Engineering",741,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",743,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,744,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,747,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,750,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,751,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,752,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,752,6,mit_license
+4,Development,752,39,creative_commons_attribution_license
+8,"Science and Engineering",753,6,mit_license
+8,"Science and Engineering",755,18,creative_commons_attribution_non_commercial_license_v2.0
+4,Development,756,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",757,2,bsd_license
+6,Games,759,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,760,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",763,17,other_license
+8,"Science and Engineering",765,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",765,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",765,47,gnu_general_public_license_with_classpath_exception_(classpath::license)
+4,Development,766,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",769,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",772,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",775,19,creative_commons_attribution_sharealike_license_v3.0
+8,"Science and Engineering",776,6,mit_license
+8,"Science and Engineering",777,2,bsd_license
+4,Development,778,2,bsd_license
+4,Development,804,6,mit_license
+4,Development,808,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,808,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,808,5,apache_license_v2.0
+4,Development,811,5,apache_license_v2.0
+4,Development,816,5,apache_license_v2.0
+2,"Business and Enterprise",817,39,creative_commons_attribution_license
+4,Development,819,6,mit_license
+4,Development,821,6,mit_license
+4,Development,823,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,824,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",825,2,bsd_license
+4,Development,826,17,other_license
+1,"Audio and Video",827,5,apache_license_v2.0
+4,Development,831,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,835,2,bsd_license
+10,"System Administration",837,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",838,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,842,5,apache_license_v2.0
+4,Development,843,5,apache_license_v2.0
+4,Development,844,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,845,2,bsd_license
+4,Development,849,2,bsd_license
+5,"Home and Education",850,5,apache_license_v2.0
+10,"System Administration",852,2,bsd_license
+4,Development,854,45,open_font_license_1.1_(ofl_1.1)
+8,"Science and Engineering",857,3,gnu_general_public_license_version_3.0_(gplv3)
+10,"System Administration",858,5,apache_license_v2.0
+4,Development,862,3,gnu_general_public_license_version_3.0_(gplv3)
+7,Graphics,863,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,865,5,apache_license_v2.0
+8,"Science and Engineering",869,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,874,22,eclipse_public_license
+4,Development,880,21,zlib_libpng_license
+4,Development,882,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",884,2,bsd_license
+4,Development,887,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",888,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,890,48,python_software_foundation_license
+8,"Science and Engineering",891,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",892,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",893,2,bsd_license
+10,"System Administration",894,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,896,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",897,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,900,3,gnu_general_public_license_version_3.0_(gplv3)
+1,"Audio and Video",901,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,902,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",904,3,gnu_general_public_license_version_3.0_(gplv3)
+9,"Security and Utilities",905,6,mit_license
+5,"Home and Education",909,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",914,6,mit_license
+3,Communications,916,2,bsd_license
+6,Games,918,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,919,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+3,Communications,920,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+6,Games,921,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,922,5,apache_license_v2.0
+4,Development,922,16,public_domain
+6,Games,923,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",924,2,bsd_license
+8,"Science and Engineering",928,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",931,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,932,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,933,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,933,33,mozilla_public_license_1.0_(mpl)
+4,Development,935,6,mit_license
+4,Development,937,16,public_domain
+10,"System Administration",939,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",940,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",941,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",944,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",945,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,946,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,946,23,european_union_public_license
+4,Development,947,5,apache_license_v2.0
+8,"Science and Engineering",948,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,949,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,950,5,apache_license_v2.0
+3,Communications,951,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,952,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,952,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",953,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",954,14,affero_gnu_public_license
+8,"Science and Engineering",955,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+1,"Audio and Video",956,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",957,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,959,5,apache_license_v2.0
+10,"System Administration",960,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,961,5,apache_license_v2.0
+8,"Science and Engineering",963,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",964,2,bsd_license
+10,"System Administration",965,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",966,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,967,2,bsd_license
+4,Development,968,2,bsd_license
+8,"Science and Engineering",969,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,970,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,972,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,973,5,apache_license_v2.0
+1,"Audio and Video",975,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,977,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,978,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,979,6,mit_license
+4,Development,982,2,bsd_license
+4,Development,986,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",988,18,creative_commons_attribution_non_commercial_license_v2.0
+10,"System Administration",994,5,apache_license_v2.0
+4,Development,995,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+4,Development,996,2,bsd_license
+6,Games,997,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+6,Games,997,17,other_license
+6,Games,998,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,1000,3,gnu_general_public_license_version_3.0_(gplv3)
+5,"Home and Education",1001,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",1002,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1003,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",1005,6,mit_license
+2,"Business and Enterprise",1006,3,gnu_general_public_license_version_3.0_(gplv3)
+5,"Home and Education",1007,1,gnu_general_public_license_version_2.0_(gplv2)
+3,Communications,1008,3,gnu_general_public_license_version_3.0_(gplv3)
+1,"Audio and Video",1009,6,mit_license
+8,"Science and Engineering",1010,2,bsd_license
+4,Development,1015,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+2,"Business and Enterprise",1016,2,bsd_license
+4,Development,1020,16,public_domain
+9,"Security and Utilities",1023,2,bsd_license
+8,"Science and Engineering",1025,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1027,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",1030,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",1031,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,1032,5,apache_license_v2.0
+8,"Science and Engineering",1033,21,zlib_libpng_license
+4,Development,1034,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,1035,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1038,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",1039,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+3,Communications,1040,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1041,2,bsd_license
+4,Development,1043,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",1044,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1046,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1047,2,bsd_license
+4,Development,1048,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1050,22,eclipse_public_license
+8,"Science and Engineering",1051,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",1053,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1055,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",1056,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1057,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1058,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+10,"System Administration",1059,6,mit_license
+5,"Home and Education",1060,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1062,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1062,2,bsd_license
+8,"Science and Engineering",1062,6,mit_license
+4,Development,1064,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+3,Communications,1065,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1067,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,1071,5,apache_license_v2.0
+4,Development,1072,2,bsd_license
+3,Communications,1073,5,apache_license_v2.0
+4,Development,1074,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1075,2,bsd_license
+1,"Audio and Video",1076,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,1077,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1078,10,apache_software_license
+6,Games,1079,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+6,Games,1079,5,apache_license_v2.0
+9,"Security and Utilities",1080,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1081,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1082,2,bsd_license
+8,"Science and Engineering",1083,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1084,6,mit_license
+2,"Business and Enterprise",1086,6,mit_license
+5,"Home and Education",1090,39,creative_commons_attribution_license
+6,Games,1092,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1093,16,public_domain
+4,Development,1095,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1095,23,european_union_public_license
+4,Development,1096,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1096,5,apache_license_v2.0
+4,Development,1097,5,apache_license_v2.0
+6,Games,1098,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,1099,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",1100,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",1101,3,gnu_general_public_license_version_3.0_(gplv3)
+2,"Business and Enterprise",1101,23,european_union_public_license
+6,Games,1102,1,gnu_general_public_license_version_2.0_(gplv2)
+9,"Security and Utilities",1103,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,1105,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,1110,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1111,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1112,5,apache_license_v2.0
+1,"Audio and Video",1115,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1116,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1117,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",1118,2,bsd_license
+8,"Science and Engineering",1118,6,mit_license
+8,"Science and Engineering",1118,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+4,Development,1120,5,apache_license_v2.0
+4,Development,1120,12,common_public_license_1.0
+4,Development,1121,6,mit_license
+7,Graphics,1122,21,zlib_libpng_license
+8,"Science and Engineering",1126,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1127,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",1128,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+8,"Science and Engineering",1131,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",1134,1,gnu_general_public_license_version_2.0_(gplv2)
+3,Communications,1135,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,1137,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,1137,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+8,"Science and Engineering",1138,5,apache_license_v2.0
+8,"Science and Engineering",1139,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1140,3,gnu_general_public_license_version_3.0_(gplv3)
+6,Games,1141,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1142,16,public_domain
+8,"Science and Engineering",1144,2,bsd_license
+4,Development,1145,17,other_license
+4,Development,1146,5,apache_license_v2.0
+8,"Science and Engineering",1147,3,gnu_general_public_license_version_3.0_(gplv3)
+3,Communications,1148,23,european_union_public_license
+9,"Security and Utilities",1149,2,bsd_license
+10,"System Administration",1152,3,gnu_general_public_license_version_3.0_(gplv3)
+9,"Security and Utilities",1153,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1154,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1158,5,apache_license_v2.0
+4,Development,1159,14,affero_gnu_public_license
+4,Development,1161,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1161,23,european_union_public_license
+4,Development,1163,3,gnu_general_public_license_version_3.0_(gplv3)
+2,"Business and Enterprise",1164,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",1164,6,mit_license
+4,Development,1165,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+3,Communications,1166,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1168,6,mit_license
+2,"Business and Enterprise",1171,5,apache_license_v2.0
+10,"System Administration",1175,39,creative_commons_attribution_license
+4,Development,1178,3,gnu_general_public_license_version_3.0_(gplv3)
+7,Graphics,1183,5,apache_license_v2.0
+8,"Science and Engineering",1186,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,1187,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,1188,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1189,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",1190,3,gnu_general_public_license_version_3.0_(gplv3)
+8,"Science and Engineering",1191,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1192,5,apache_license_v2.0
+3,Communications,1195,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1196,2,bsd_license
+4,Development,1197,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1200,6,mit_license
+4,Development,1202,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1205,6,mit_license
+4,Development,1206,17,other_license
+7,Graphics,1207,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1208,3,gnu_general_public_license_version_3.0_(gplv3)
+7,Graphics,1210,1,gnu_general_public_license_version_2.0_(gplv2)
+5,"Home and Education",1217,40,academic_free_license_(afl)
+6,Games,1220,1,gnu_general_public_license_version_2.0_(gplv2)
+2,"Business and Enterprise",1222,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,1225,1,gnu_general_public_license_version_2.0_(gplv2)
+10,"System Administration",1226,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,1227,22,eclipse_public_license
+8,"Science and Engineering",1228,14,affero_gnu_public_license
+6,Games,1229,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1231,1,gnu_general_public_license_version_2.0_(gplv2)
+8,"Science and Engineering",1232,2,bsd_license
+10,"System Administration",1233,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1234,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,1235,4,gnu_library_or_lesser_general_public_license_version_2.0_(lgplv2)
+4,Development,1236,1,gnu_general_public_license_version_2.0_(gplv2)
+7,Graphics,1238,6,mit_license
+6,Games,1239,3,gnu_general_public_license_version_3.0_(gplv3)
+4,Development,1241,6,mit_license
+4,Development,1242,1,gnu_general_public_license_version_2.0_(gplv2)
+5,"Home and Education",1244,1,gnu_general_public_license_version_2.0_(gplv2)
+6,Games,1245,1,gnu_general_public_license_version_2.0_(gplv2)
+4,Development,1246,5,apache_license_v2.0
+2,"Business and Enterprise",1247,2,bsd_license
+10,"System Administration",1248,2,bsd_license
+10,"System Administration",1249,23,european_union_public_license
+4,Development,1251,7,gnu_library_or_lesser_general_public_license_version_3.0_(lgplv3)
+3,Communications,1252,2,bsd_license
