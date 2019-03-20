@@ -1,0 +1,353 @@
+topic_name,oss_id,overall_rating,ease_rate,features_rate,overall_rating,support_rate
+Games,1,5,4,5,5,3
+Games,5,5,0,0,5,0
+"Science and Engineering",7,5,0,0,5,0
+Graphics,9,5,0,0,5,0
+NULL,11,5,0,0,5,0
+Games,13,5,5,4,5,2
+NULL,18,5,0,0,5,0
+Development,29,5,3,3,5,2
+NULL,30,5,5,5,5,5
+NULL,35,5,0,0,5,0
+"System Administration",36,5,4,5,5,4
+Development,37,5,0,0,5,0
+"Home and Education",41,5,0,0,5,0
+"System Administration",45,5,3,3,5,3
+NULL,46,5,0,0,5,0
+NULL,47,5,3,3,5,3
+Development,48,5,0,0,5,0
+Games,49,5,5,4,5,4
+Development,50,5,5,5,5,5
+NULL,51,5,4,5,5,5
+"Science and Engineering",52,5,4,4,5,3
+Development,53,5,5,4,5,3
+"Security and Utilities",56,5,4,4,5,4
+Development,57,4,4,4,4,3
+Development,58,5,0,0,5,0
+"Home and Education",62,5,0,0,5,0
+NULL,63,5,5,4,5,5
+Graphics,67,5,5,5,5,4
+Development,68,5,0,0,5,0
+NULL,69,4,4,5,4,0
+NULL,71,5,0,0,5,0
+Development,74,5,4,5,5,4
+"Business and Enterprise",77,5,0,0,5,0
+Graphics,81,5,3,3,5,3
+"Business and Enterprise",82,5,4,4,5,4
+"Security and Utilities",84,5,5,4,5,4
+Games,85,5,5,4,5,5
+Games,86,5,3,3,5,3
+Development,89,3,4,4,3,4
+NULL,92,5,0,0,5,0
+Development,94,5,5,5,5,0
+Development,95,5,0,0,5,0
+"Business and Enterprise",96,5,4,4,5,3
+"System Administration",97,4,2,2,4,1
+Communications,98,5,4,4,5,3
+"System Administration",99,5,0,0,5,0
+Games,101,5,4,5,5,0
+Development,102,5,4,4,5,4
+NULL,103,5,4,4,5,3
+"System Administration",107,5,4,5,5,1
+Games,108,5,0,0,5,0
+"System Administration",109,4,4,5,4,5
+Graphics,110,5,0,0,5,0
+"System Administration",111,5,4,5,5,5
+NULL,112,4,3,2,4,3
+NULL,112,4,3,2,4,3
+"Science and Engineering",115,5,5,5,5,5
+Games,116,5,5,5,5,5
+"Science and Engineering",117,5,0,3,5,0
+Games,122,5,5,4,5,4
+"Business and Enterprise",123,5,0,0,5,0
+Development,125,5,1,1,5,1
+Communications,128,5,0,0,5,0
+Development,129,5,0,0,5,0
+"Business and Enterprise",134,4,4,4,4,4
+Development,135,5,4,4,5,3
+Development,136,5,0,0,5,0
+Development,137,5,0,0,5,0
+Development,138,5,3,2,5,2
+Development,139,4,0,0,4,0
+Development,140,5,0,0,5,0
+NULL,141,5,5,5,5,5
+Development,142,5,3,4,5,3
+Development,143,5,5,5,5,5
+"System Administration",144,4,3,4,4,3
+Games,145,5,4,5,5,3
+"Security and Utilities",149,5,0,0,5,0
+Development,150,5,0,0,5,0
+"Science and Engineering",151,5,0,0,5,0
+NULL,152,5,5,5,5,5
+"Science and Engineering",155,5,0,0,5,0
+"System Administration",156,5,5,0,5,0
+Development,157,5,5,5,5,5
+"System Administration",159,5,0,0,5,0
+"Security and Utilities",160,5,0,0,5,0
+"System Administration",161,5,4,5,5,4
+Development,162,5,0,0,5,0
+Games,163,4,4,5,4,0
+Communications,164,5,5,4,5,4
+Games,165,5,0,0,5,0
+"Business and Enterprise",167,5,0,0,5,0
+"Science and Engineering",168,4,4,1,4,1
+"Science and Engineering",169,5,0,0,5,0
+NULL,170,5,5,3,5,5
+"Science and Engineering",171,5,0,0,5,0
+"Science and Engineering",172,5,5,5,5,5
+Development,173,5,5,5,5,5
+"System Administration",174,5,0,0,5,0
+Development,175,5,0,0,5,0
+NULL,177,5,0,0,5,0
+"System Administration",183,4,2,2,4,1
+NULL,185,3,3,2,3,1
+NULL,186,5,0,0,5,0
+NULL,187,4,4,4,4,0
+"System Administration",188,5,5,5,5,5
+Development,189,5,0,0,5,0
+Development,190,5,4,3,5,1
+"Science and Engineering",191,5,0,0,5,0
+Games,193,4,4,0,4,0
+"Science and Engineering",195,5,0,0,5,0
+Development,197,5,5,5,5,5
+Games,198,5,0,0,5,0
+"Science and Engineering",199,5,0,0,5,0
+Development,201,5,0,0,5,0
+"System Administration",203,5,0,0,5,0
+"Science and Engineering",204,5,5,5,5,5
+Development,205,5,0,0,5,0
+NULL,187,4,4,4,4,0
+Development,209,5,0,0,5,0
+Communications,211,5,4,5,5,2
+NULL,213,5,0,0,5,0
+Games,214,5,0,0,5,0
+NULL,215,5,4,4,5,0
+"Science and Engineering",217,5,0,0,5,0
+NULL,218,5,5,5,5,5
+Development,219,4,4,3,4,4
+"Security and Utilities",220,5,0,0,5,0
+Development,223,5,0,0,5,0
+"System Administration",226,5,4,5,5,3
+Development,228,5,0,0,5,0
+"System Administration",229,4,5,5,4,5
+Development,230,5,5,5,5,5
+Development,232,4,5,5,4,5
+Development,233,4,0,0,4,0
+"System Administration",234,5,0,0,5,0
+"System Administration",235,5,0,0,5,0
+"Audio and Video",236,5,0,0,5,0
+NULL,238,5,0,0,5,0
+Games,239,5,0,0,5,0
+Development,240,5,0,0,5,0
+NULL,241,5,0,0,5,0
+Development,244,5,0,0,5,0
+Development,245,5,0,0,5,0
+Development,246,4,0,0,4,0
+NULL,247,5,0,0,5,0
+"Audio and Video",248,5,0,0,5,0
+"Science and Engineering",253,5,0,0,5,0
+Development,254,5,0,0,5,0
+Development,257,5,4,5,5,5
+Development,266,5,0,0,5,0
+"Science and Engineering",267,5,0,0,5,0
+Development,268,5,0,0,5,0
+Development,270,5,0,0,5,0
+Development,271,4,2,1,4,2
+"System Administration",272,5,5,5,5,5
+Development,273,5,0,0,5,0
+Development,276,5,0,0,5,0
+NULL,277,5,5,3,5,5
+Games,278,5,4,4,5,0
+Development,279,5,0,0,5,0
+Development,281,5,0,0,5,0
+Development,282,5,0,0,5,0
+Development,286,5,4,4,5,4
+Development,288,5,0,0,5,0
+"Science and Engineering",289,5,5,4,5,4
+Development,290,4,3,2,4,2
+"Science and Engineering",291,5,4,5,5,0
+"Business and Enterprise",294,5,0,0,5,0
+Development,296,5,0,0,5,0
+Development,299,4,0,0,4,0
+Games,300,3,3,2,3,2
+Development,302,5,5,4,5,1
+Development,303,4,0,0,4,0
+"Science and Engineering",304,5,0,0,5,0
+NULL,307,5,5,3,5,1
+"System Administration",308,5,5,4,5,4
+Development,309,5,0,0,5,0
+Development,310,5,0,0,5,0
+Development,313,5,0,0,5,0
+NULL,314,5,0,0,5,0
+"System Administration",315,2,0,0,2,0
+Development,316,5,0,0,5,0
+Games,317,5,5,5,5,2
+NULL,320,5,0,0,5,0
+Development,322,5,0,0,5,0
+Development,325,5,0,0,5,0
+Development,330,5,3,3,5,4
+Development,336,5,0,0,5,0
+"Science and Engineering",337,5,0,0,5,0
+NULL,339,5,0,0,5,0
+Games,340,5,5,5,5,4
+Development,344,5,0,0,5,0
+Development,346,5,0,0,5,0
+"System Administration",348,5,4,5,5,5
+NULL,349,5,5,5,5,5
+Graphics,351,5,0,0,5,0
+"System Administration",352,5,0,0,5,0
+"System Administration",354,5,0,0,5,0
+"System Administration",355,5,0,0,5,0
+Development,361,5,0,0,5,0
+"Business and Enterprise",362,5,0,0,5,0
+Development,364,4,5,5,4,5
+"Security and Utilities",368,5,0,0,5,0
+Development,370,5,4,4,5,4
+"Science and Engineering",371,5,0,0,5,0
+Development,372,5,4,4,5,4
+"Business and Enterprise",373,5,0,0,5,0
+Development,378,5,0,0,5,0
+Games,380,4,4,4,4,4
+"Business and Enterprise",386,5,0,0,5,0
+"Business and Enterprise",396,5,0,0,5,0
+Development,399,5,4,5,5,4
+"Science and Engineering",400,5,0,0,5,0
+Development,401,5,0,0,5,0
+"Business and Enterprise",402,1,1,1,1,1
+NULL,405,1,3,3,1,1
+Development,417,5,0,0,5,0
+NULL,405,1,3,3,1,1
+Games,424,5,0,0,5,0
+"Business and Enterprise",426,5,0,0,5,0
+NULL,247,5,0,0,5,0
+Development,437,5,0,0,5,0
+"System Administration",315,2,0,0,2,0
+Development,439,5,0,0,5,0
+NULL,405,1,3,3,1,1
+Development,457,3,0,0,3,0
+"System Administration",463,1,0,0,1,0
+"Security and Utilities",468,5,0,0,5,0
+Graphics,469,5,0,0,5,0
+NULL,477,5,0,0,5,0
+"System Administration",484,1,0,0,1,0
+Development,516,5,0,0,5,0
+"Security and Utilities",517,5,0,0,5,0
+"Home and Education",527,5,0,0,5,0
+Development,530,5,0,0,5,0
+"System Administration",534,5,0,0,5,0
+"Science and Engineering",304,5,0,0,5,0
+NULL,537,5,5,5,5,5
+NULL,542,5,0,0,5,0
+Graphics,545,5,0,0,5,0
+NULL,554,5,0,0,5,0
+NULL,561,5,0,0,5,0
+Development,563,5,0,0,5,0
+Development,573,5,0,0,5,0
+"System Administration",579,5,0,0,5,0
+NULL,586,5,0,0,5,0
+NULL,596,5,0,0,5,0
+NULL,597,5,5,5,5,5
+Graphics,603,1,0,0,1,0
+Development,612,5,0,0,5,0
+NULL,621,5,5,5,5,4
+Games,625,4,0,0,4,0
+NULL,629,5,0,0,5,0
+"Security and Utilities",634,5,0,0,5,0
+Development,636,3,0,0,3,0
+Development,637,5,0,0,5,0
+NULL,640,5,0,0,5,0
+Communications,642,5,0,0,5,0
+Development,647,5,0,0,5,0
+Development,655,5,0,0,5,0
+Development,657,5,0,0,5,0
+"System Administration",667,5,0,0,5,0
+Development,669,5,0,0,5,0
+Games,671,5,0,0,5,0
+NULL,674,5,0,0,5,0
+NULL,675,5,0,0,5,0
+Development,680,5,0,0,5,0
+"Science and Engineering",686,5,0,0,5,0
+NULL,688,4,0,0,4,0
+Games,689,5,0,0,5,0
+"Science and Engineering",690,5,0,0,5,0
+Development,692,4,0,0,4,0
+NULL,674,5,0,0,5,0
+Development,706,5,0,0,5,0
+Graphics,717,5,0,0,5,0
+Development,723,5,0,0,5,0
+"Science and Engineering",769,5,0,0,5,0
+"System Administration",772,5,0,0,5,0
+"Science and Engineering",775,5,0,0,5,0
+NULL,779,5,0,0,5,0
+NULL,782,5,0,0,5,0
+NULL,788,5,0,0,5,0
+NULL,796,5,4,4,5,0
+NULL,798,5,0,0,5,0
+Development,808,5,0,0,5,0
+"Business and Enterprise",817,5,0,0,5,0
+NULL,822,5,5,5,5,0
+Development,826,5,5,4,5,5
+"Audio and Video",827,5,0,0,5,0
+Development,844,5,0,0,5,0
+Development,845,5,0,0,5,0
+NULL,542,5,0,0,5,0
+Development,849,5,0,0,5,0
+NULL,859,5,5,5,5,5
+NULL,867,5,0,0,5,0
+Development,882,5,5,5,5,3
+"Science and Engineering",889,5,4,4,5,5
+"Science and Engineering",891,5,0,0,5,0
+Communications,899,5,0,0,5,0
+Development,900,5,0,0,5,0
+"Security and Utilities",904,5,0,0,5,0
+"Security and Utilities",905,5,0,0,5,0
+Communications,911,5,0,0,5,0
+"Science and Engineering",914,5,5,5,5,5
+"Science and Engineering",928,5,0,0,5,0
+NULL,674,5,0,0,5,0
+Development,932,5,0,0,5,0
+Development,933,5,0,0,5,0
+Development,937,5,0,0,5,0
+Development,947,5,0,0,5,0
+Games,949,5,0,0,5,0
+"Science and Engineering",955,5,0,0,5,0
+Development,961,5,0,0,5,0
+Development,680,5,0,0,5,0
+"Science and Engineering",966,5,0,0,5,0
+Development,967,5,0,0,5,0
+Development,976,5,0,0,5,0
+Games,997,5,0,0,5,0
+"Business and Enterprise",1006,5,0,0,5,0
+"Audio and Video",1009,5,0,0,5,0
+"Business and Enterprise",1016,5,0,0,5,0
+"Science and Engineering",1033,5,0,0,5,0
+Development,1050,5,0,0,5,0
+Development,1055,5,0,0,5,0
+"System Administration",1059,5,0,0,5,0
+"Science and Engineering",1062,5,0,0,5,0
+Development,1067,5,0,0,5,0
+Development,1075,5,0,0,5,0
+Development,1097,2,4,1,2,0
+Games,1099,5,0,0,5,0
+Development,1111,5,4,4,5,4
+"Science and Engineering",1117,5,0,0,5,0
+Development,1120,5,0,0,5,0
+Development,1121,5,4,4,5,4
+Communications,1135,5,0,0,5,0
+"Science and Engineering",1140,3,0,0,3,0
+Development,1145,5,0,0,5,0
+"Science and Engineering",1147,4,0,0,4,0
+"System Administration",1150,5,0,0,5,0
+"System Administration",1152,5,0,0,5,0
+"Security and Utilities",1153,3,3,5,3,3
+"Science and Engineering",1154,5,0,0,5,0
+NULL,1155,5,0,0,5,0
+Games,1157,5,0,0,5,0
+"Business and Enterprise",1164,5,5,5,5,5
+Development,1192,5,0,0,5,0
+Graphics,1225,5,0,0,5,0
+"Science and Engineering",1228,5,0,0,5,0
+NULL,1230,5,0,0,5,0
+"Science and Engineering",1232,5,0,0,5,0
+"Home and Education",1244,5,0,0,5,0
+"Business and Enterprise",1247,5,0,0,5,0
